@@ -58,10 +58,7 @@ Since no personal data is collected or stored on our servers, there is no person
 
 We may update this privacy policy from time to time. Any changes will be reflected in the "Last Updated" date at the top of this policy.
 
-## Contact
+# Support
+Questions or feedback? Email us at solemnitas.app@gmail.com
 
-If you have any questions about this privacy policy or the App's privacy practices, please contact us through the App Store listing or submit an issue on the project's GitHub repository.
 
----
-
-*This privacy policy applies to the Catholic Calendar iOS application.*
