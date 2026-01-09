@@ -1,8 +1,8 @@
 # Solemnitas
-Privacy Policy
+##Privacy Policy
 Last Updated: January 9, 2026
 
-Overview
+##Overview
 Catholic Calendar ("the App") is designed with your privacy in mind. This privacy policy explains how the App handles your information.
 
 Data Collection
